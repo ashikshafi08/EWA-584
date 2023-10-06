@@ -1,0 +1,337 @@
+
+<ProductCatalog>
+
+    <SmartThermostatCatalog>
+        <smartthermostat id="ecobee3_lite">
+            <name>Ecobee3 Lite</name>
+            <price>189.99</price>
+            <image>ecobee3_lite.jpg</image>
+            <manufacturer>Ecobee</manufacturer>
+        </smartthermostat>
+        <smartthermostat id="hnwell_t60_thermo_programmable">
+            <namee>Honeywell T60 Thermostat Programmable</namee>
+            <price>189.99</price>
+            <image>hnwell_t60_thermo_programmable.jpg</image>
+            <manufacturer>Honeywell</manufacturer>
+        </smartthermostat>
+        <smartthermostat id="hnwell_visionpro_thermo">
+            <name>Honeywell VisionPro Thermostat</name>
+            <price>299.99</price>
+            <image>hnwell_visionpro_thermo.jpg</image>
+            <manufacturer>Honeywell</manufacturer>
+        </smartthermostat>
+        <smartthermostat id="hnwell_wifi_smart_color_thermo">
+            <name>Honeywell Wi-Fi Smart Color Thermostat</name>
+            <price>349.99</price>
+            <image>hnwell_wifi_smart_color_thermo.jpg</image>
+            <manufacturer>Honeywell</manufacturer>
+        </smartthermostat>
+        <smartthermostat id="hnwell_wifi_thermo_programmable">
+            <name>Honeywell Wi-Fi Thermostat Programmable</name>
+            <price>349.99</price>
+            <image>hnwell_wifi_thermo_programmable.jpg</image>
+            <manufacturer>Honeywell</manufacturer>
+        </smartthermostat>
+        <smartthermostat id="nest_learning_thermo">
+            <name>Nest Learning Thermostat</name>
+            <price>249.99</price>
+            <image>nest_learning_thermo.jpg</image>
+            <manufacturer>Nest</manufacturer>
+        </smartthermostat>
+        <smartthermostat id="nest_thermo">
+            <name>Nest Thermostat</name>
+            <price>249.99</price>
+            <image>nest_thermo.jpg</image>
+            <manufacturer>Nest</manufacturer>
+        </smartthermostat>
+        <smartthermostat id="ecobee_thermo_enhanced">
+            <name>Ecobee Thermostat Enhanced</name>
+            <price>189.99</price>
+            <image>ecobee_thermo_enhanced.jpg</image>
+            <manufacturer>Ecobee</manufacturer>
+        </smartthermostat>
+        <smartthermostat id="ecobee_thermo_premium">
+            <name>Ecobee Thermostat Premium</name>
+            <price>189.99</price>
+            <image>ecobee_thermo_premium.jpg</image>
+            <manufacturer>Ecobee</manufacturer>
+        </smartthermostat>
+    </SmartThermostatCatalog>
+
+    <SmartSpeakerCatalog>
+        <smartspeaker id="echo_4th_gen">
+            <name>Echo 4th Gen</name>
+            <price>89.99</price>
+            <image>echo_4th_gen.jpg</image>
+            <manufacturer>Amazon</manufacturer>
+        </smartspeaker>
+        <smartspeaker id="echo_dot_5th">
+            <name>Echo Dot 5th</name>
+            <price>89.99</price>
+            <image>echo_dot_5th.jpg</image>
+            <manufacturer>Amazon</manufacturer>
+        </smartspeaker>
+        <smartspeaker id="echo_pop">
+            <name>Echo Pop</name>
+            <price>89.99</price>
+            <image>echo_pop.jpg</image>
+            <manufacturer>Amazon</manufacturer>
+        </smartspeaker>
+        <smartspeaker id="echo_studio">
+            <name>Echo Studio</name>
+            <price>89.99</price>
+            <image>echo_studio.jpg</image>
+            <manufacturer>Amazon</manufacturer>
+        </smartspeaker>
+        <smartspeaker id="google_audio_keychain">
+            <name>Google Audio Keychain</name>
+            <price>89.99</price>
+            <image>google_audio_keychain.jpg</image>
+            <manufacturer>Google</manufacturer>
+        </smartspeaker>
+        <smartspeaker id="google_nest_mini_2nd_gen">
+            <name>Google Nest Mini 2nd Gen</name>
+            <price>89.99</price>
+            <image>google_nest_mini_2nd_gen.jpg</image>
+            <manufacturer>Google</manufacturer>
+        </smartspeaker>
+        <smartspeaker id="homepod-mini-select">
+            <name>HomePod Mini Select</name>
+            <price>89.99</price>
+            <image>homepod-mini-select.jpg</image>
+            <manufacturer>Apple</manufacturer>
+        </smartspeaker>
+        <smartspeaker id="apple_homepod">
+            <name>Apple HomePod</name>
+            <price>89.99</price>
+            <image>apple_homepod.jpg</image>
+            <manufacturer>Apple</manufacturer>
+        </smartspeaker>
+        <smartspeaker id="bose_portable_smart">
+            <name>Bose Portable Smart</name>
+            <price>89.99</price>
+            <image>bose_portable_smart.jpg</image>
+            <manufacturer>Bose</manufacturer>
+        </smartspeaker>
+    </SmartSpeakerCatalog>
+
+    <SmartLightCatalog>
+        <smartlight id="ledstrip_govee_led">
+            <name>LED Strip Govee LED</name>
+            <price>49.99</price>
+            <image>ledstrip_govee_led.jpg</image>
+            <manufacturer>Govee</manufacturer>
+        </smartlight>
+        <smartlight id="ledstrip_gupup_100ft_led">
+            <name>LED Strip Gupup 100ft LED</name>
+            <price>59.99</price>
+            <image>ledstrip_gupup_100ft_led.jpg</image>
+            <manufacturer>Gupup</manufacturer>
+        </smartlight>
+        <smartlight id="smbulb_ge_cync">
+            <name>Smart Bulb GE Cync</name>
+            <price>19.99</price>
+            <image>smbulb_ge_cync.jpg</image>
+            <manufacturer>GE</manufacturer>
+        </smartlight>
+        <smartlight id="smbulb_nano_leaf">
+            <name>Smart Bulb Nano Leaf</name>
+            <price>39.99</price>
+            <image>smbulb_nano_leaf.jpg</image>
+            <manufacturer>Nano Leaf</manufacturer>
+        </smartlight>
+        <smartlight id="smbulb_philips">
+            <name>Smart Bulb Philips</name>
+            <price>29.99</price>
+            <image>smbulb_philips.jpg</image>
+            <manufacturer>Philips</manufacturer>
+        </smartlight>
+        <smartlight id="tenmire_led_light_strip">
+            <name>Tenmire LED Light Strip</name>
+            <price>49.99</price>
+            <image>tenmire_led_light_strip.jpg</image>
+            <manufacturer>Tenmire</manufacturer>
+        </smartlight>
+        <smartlight id="ledsmlight_govee_light_bard">
+            <name>LED Smart Light Govee Light Bard</name>
+            <price>39.99</price>
+            <image>ledsmlight_govee_light_bard.jpg</image>
+            <manufacturer>Govee</manufacturer>
+        </smartlight>
+        <smartlight id="ledsmlight_melegan_smart_led">
+            <name>LED Smart Light Melegan Smart LED</name>
+            <price>29.99</price>
+            <image>ledsmlight_melegan_smart_led.jpg</image>
+            <manufacturer>Melegan</manufacturer>
+        </smartlight>
+        <smartlight id="ledsmlight_orieN_motion_light">
+            <name>LED Smart Light OrieN Motion Light</name>
+            <price>34.99</price>
+            <image>ledsmlight_orieN_motion_light.jpg</image>
+            <manufacturer>OrieN</manufacturer>
+        </smartlight>
+    </SmartLightCatalog>
+
+    <SmartDoorLockCatalog>
+        <smartdoorlock id="yale_touch_screen">
+            <name>Yale Touch Screen</name>
+            <price>129.99</price>
+            <image>yale_touch_screen.jpg</image>
+            <manufacturer>Yale</manufacturer>
+        </smartdoorlock>
+        <smartdoorlock id="august_lock_plus_connect">
+            <name>August Lock Plus Connect</name>
+            <price>159.99</price>
+            <image>august_lock_plus_connect.jpg</image>
+            <manufacturer>August</manufacturer>
+        </smartdoorlock>
+        <smartdoorlock id="august_lock_pro_connect">
+            <name>August Lock Pro Connect</name>
+            <price>179.99</price>
+            <image>august_lock_pro_connect.jpg</image>
+            <manufacturer>August</manufacturer>
+        </smartdoorlock>
+        <smartdoorlock id="august_wifi_lock_keypad">
+            <name>August Wi-Fi Lock Keypad</name>
+            <price>149.99</price>
+            <image>august_wifi_lock_keypad.jpg</image>
+            <manufacturer>August</manufacturer>
+        </smartdoorlock>
+        <smartdoorlock id="schlage-encode-lever-2023">
+            <name>Schlage Encode Lever 2023</name>
+            <price>99.99</price>
+            <image>schlage-encode-lever-2023.jpg</image>
+            <manufacturer>Schlage</manufacturer>
+        </smartdoorlock>
+        <smartdoorlock id="schlage-encode-NEW">
+            <name>Schlage Encode NEW</name>
+            <price>119.99</price>
+            <image>schlage-encode-NEW.jpg</image>
+            <manufacturer>Schlage</manufacturer>
+        </smartdoorlock>
+        <smartdoorlock id="schlage-encode-plus-NEW">
+            <name>Schlage Encode Plus NEW</name>
+            <price>129.99</price>
+            <image>schlage-encode-plus-NEW.jpg</image>
+            <manufacturer>Schlage</manufacturer>
+        </smartdoorlock>
+        <smartdoorlock id="U-Bolt_Pro_Series">
+            <name>U-Bolt Pro Series</name>
+            <price>199.99</price>
+            <image>U-Bolt_Pro_Series.jpg</image>
+            <manufacturer>U-Bolt</manufacturer>
+        </smartdoorlock>
+        <smartdoorlock id="U-Bolt_Series_SN">
+            <name>U-Bolt Series SN</name>
+            <price>169.99</price>
+            <image>U-Bolt_Series_SN.jpg</image>
+            <manufacturer>U-Bolt</manufacturer>
+        </smartdoorlock>
+        <smartdoorlock id="yale_level_touchscreen">
+            <name>Yale Level Touchscreen</name>
+            <price>139.99</price>
+            <image>yale_level_touchscreen.jpg</image>
+            <manufacturer>Yale</manufacturer>
+        </smartdoorlock>
+        <smartdoorlock id="yale_lock_keypad">
+            <name>Yale Lock Keypad</name>
+            <price>149.99</price>
+            <image>yale_lock_keypad.jpg</image>
+            <manufacturer>Yale</manufacturer>
+        </smartdoorlock>
+        <smartdoorlock id="yale_lock_sl">
+            <name>Yale Lock SL</name>
+            <price>159.99</price>
+            <image>yale_lock_sl.jpg</image>
+            <manufacturer>Yale</manufacturer>
+        </smartdoorlock>
+    </SmartDoorLockCatalog>
+
+    <SmartDoorbellCatalog>
+        <smartdoorbell id="nest_bell_wired">
+            <name>Nest Bell Wired</name>
+            <price>199.99</price>
+            <image>nest_bell_wired.jpg</image>
+            <manufacturer>Nest</manufacturer>
+        </smartdoorbell>
+        <smartdoorbell id="nest_bell_wireless">
+            <name>Nest Bell Wireless</name>
+            <price>199.99</price>
+            <image>nest_bell_wireless.jpg</image>
+            <manufacturer>Nest</manufacturer>
+        </smartdoorbell>
+        <smartdoorbell id="ring_bell_2nd_gen">
+            <name>Ring Bell 2nd Gen</name>
+            <price>189.99</price>
+            <image>ring_bell_2nd_gen.jpg</image>
+            <manufacturer>Ring</manufacturer>
+        </smartdoorbell>
+        <smartdoorbell id="ring_bell_3">
+            <name>Ring Bell 3</name>
+            <price>199.99</price>
+            <image>ring_bell_3.jpg</image>
+            <manufacturer>Ring</manufacturer>
+        </smartdoorbell>
+        <smartdoorbell id="ring_bell_plus">
+            <name>Ring Bell Plus</name>
+            <price>229.99</price>
+            <image>ring_bell_plus.jpg</image>
+            <manufacturer>Ring</manufacturer>
+        </smartdoorbell>
+        <smartdoorbell id="ring_bell_pro">
+            <name>Ring Bell Pro</name>
+            <price>249.99</price>
+            <image>ring_bell_pro.jpg</image>
+            <manufacturer>Ring</manufacturer>
+        </smartdoorbell>
+        <smartdoorbell id="ring_bell_pro_2">
+            <name>Ring Bell Pro 2</name>
+            <price>279.99</price>
+            <image>ring_bell_pro_2.jpg</image>
+            <manufacturer>Ring</manufacturer>
+        </smartdoorbell>
+        <smartdoorbell id="skybell_hd_4_bronze">
+            <name>Skybell HD 4 Bronze</name>
+            <price>179.99</price>
+            <image>skybell_hd_4_bronze.jpg</image>
+            <manufacturer>Skybell</manufacturer>
+        </smartdoorbell>
+        <smartdoorbell id="skybell_slim__1_silver">
+            <name>Skybell Slim 1 Silver</name>
+            <price>169.99</price>
+            <image>skybell_slim__1_silver.jpg</image>
+            <manufacturer>Skybell</manufacturer>
+        </smartdoorbell>
+        <smartdoorbell id="skybell_slim_1_bronze">
+            <name>Skybell Slim 1 Bronze</name>
+            <price>169.99</price>
+            <image>skybell_slim_1_bronze.jpg</image>
+            <manufacturer>Skybell</manufacturer>
+        </smartdoorbell>
+        <smartdoorbell id="skybell_trim_2_bronze">
+            <name>Skybell Trim 2 Bronze</name>
+            <price>179.99</price>
+            <image>skybell_trim_2_bronze.jpg</image>
+            <manufacturer>Skybell</manufacturer>
+        </smartdoorbell>
+        <smartdoorbell id="eufy_330_battery">
+            <name>Eufy 330 Battery</name>
+            <price>139.99</price>
+            <image>eufy_330_battery.jpg</image>
+            <manufacturer>Eufy</manufacturer>
+        </smartdoorbell>
+        <smartdoorbell id="eufy_2330_wired">
+            <name>Eufy 2330 Wired</name>
+            <price>149.99</price>
+            <image>eufy_2330_wired.jpg</image>
+            <manufacturer>Eufy</manufacturer>
+        </smartdoorbell>
+        <smartdoorbell id="eufy_s220_bell">
+            <name>Eufy S220 Bell</name>
+            <price>129.99</price>
+            <image>eufy_s220_bell.jpg</image>
+            <manufacturer>Eufy</manufacturer>
+        </smartdoorbell>
+    </SmartDoorbellCatalog>
+
+</ProductCatalog>

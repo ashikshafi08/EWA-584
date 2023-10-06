@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://java.sun.com/xml/ns/javaee" xmlns:web="http://java.sun.com/xml/ns/javaee" xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_3_0.xsd" id="WebApp_ID" version="3.0">
+
+  <display-name>All Star</display-name>
+  
+  <!-- See the welcome-file Reference Material here: http://www.javatpoint.com/welcome-file-list -->
+  <welcome-file-list>
+    <welcome-file>Home</welcome-file>
+  </welcome-file-list>
+  
+  <servlet>
+    <servlet-name>Startup</servlet-name>
+    <servlet-class>Startup</servlet-class>
+    <load-on-startup>1</load-on-startup>
+  </servlet>
+
+  <servlet>
+    <servlet-name>Home</servlet-name>
+    <servlet-class>Home</servlet-class>
+  </servlet>
+
+  <servlet-mapping>
+    <servlet-name>Home</servlet-name>
+    <url-pattern>/Home</url-pattern>
+  </servlet-mapping>
+  
+    <servlet>
+    <servlet-name>ViewItem</servlet-name>
+    <servlet-class>ViewItem</servlet-class>
+  </servlet>
+
+  <servlet-mapping>
+    <servlet-name>ViewItem</servlet-name>
+    <url-pattern>/ViewItem</url-pattern>
+  </servlet-mapping>
+
+
+  <servlet>
+    <servlet-name>SmartDoorbell</servlet-name>
+    <servlet-class>SmartDoorbell</servlet-class>
+</servlet>
+
+<servlet-mapping>
+    <servlet-name>SmartDoorbell</servlet-name>
+    <url-pattern>/SmartDoorbell</url-pattern>
+</servlet-mapping>
+
+  <servlet>
+    <servlet-name>SmartDoorbellList</servlet-name>
+    <servlet-class>SmartDoorbellList</servlet-class>
+</servlet>
+
+<servlet-mapping>
+    <servlet-name>SmartDoorbellList</servlet-name>
+    <url-pattern>/SmartDoorbellList</url-pattern>
+</servlet-mapping>
+
+
+  <!-- SmartDoorLock -->
+<servlet>
+    <servlet-name>SmartDoorLock</servlet-name>
+    <servlet-class>SmartDoorLock</servlet-class>
+</servlet>
+<servlet-mapping>
+    <servlet-name>SmartDoorLock</servlet-name>
+    <url-pattern>/SmartDoorLock</url-pattern>
+</servlet-mapping>
+
+<!-- SmartDoorLockList -->
+<servlet>
+    <servlet-name>SmartDoorLockList</servlet-name>
+    <servlet-class>SmartDoorLockList</servlet-class>
+</servlet>
+<servlet-mapping>
+    <servlet-name>SmartDoorLockList</servlet-name>
+    <url-pattern>/SmartDoorLockList</url-pattern>
+</servlet-mapping>
+
+<!-- SmartSpeaker -->
+<servlet>
+    <servlet-name>SmartSpeaker</servlet-name>
+    <servlet-class>SmartSpeaker</servlet-class>
+</servlet>
+<servlet-mapping>
+    <servlet-name>SmartSpeaker</servlet-name>
+    <url-pattern>/SmartSpeaker</url-pattern>
+</servlet-mapping>
+
+<!-- SmartSpeakerList -->
+<servlet>
+    <servlet-name>SmartSpeakerList</servlet-name>
+    <servlet-class>SmartSpeakerList</servlet-class>
+</servlet>
+<servlet-mapping>
+    <servlet-name>SmartSpeakerList</servlet-name>
+    <url-pattern>/SmartSpeakerList</url-pattern>
+</servlet-mapping>
+
+<!-- SmartThermostat -->
+<servlet>
+    <servlet-name>SmartThermostat</servlet-name>
+    <servlet-class>SmartThermostat</servlet-class>
+</servlet>
+<servlet-mapping>
+    <servlet-name>SmartThermostat</servlet-name>
+    <url-pattern>/SmartThermostat</url-pattern>
+</servlet-mapping>
+
+<!-- SmartThermostatList -->
+<servlet>
+    <servlet-name>SmartThermostatList</servlet-name>
+    <servlet-class>SmartThermostatList</servlet-class>
+</servlet>
+<servlet-mapping>
+    <servlet-name>SmartThermostatList</servlet-name>
+    <url-pattern>/SmartThermostatList</url-pattern>
+</servlet-mapping>
+
+<!-- SmartLight -->
+<servlet>
+    <servlet-name>SmartLight</servlet-name>
+    <servlet-class>SmartLight</servlet-class>
+</servlet>
+<servlet-mapping>
+    <servlet-name>SmartLight</servlet-name>
+    <url-pattern>/SmartLight</url-pattern>
+</servlet-mapping>
+
+<!-- SmartLightList -->
+<servlet>
+    <servlet-name>SmartLightList</servlet-name>
+    <servlet-class>SmartLightList</servlet-class>
+</servlet>
+<servlet-mapping>
+    <servlet-name>SmartLightList</servlet-name>
+    <url-pattern>/SmartLightList</url-pattern>
+</servlet-mapping>
+
+
+</web-app>
